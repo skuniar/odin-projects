@@ -1,3 +1,9 @@
+li {
+    color: olive;
+}
+* {
+    background-color: lightcyan;
+}
 h1 {
     color:darkolivegreen;
 text-align: center;
@@ -43,3 +49,4 @@ background-color: lightyellow;}
 .frntpg {
     font-family: 'Courier New', Courier, monospace;
 }
+
