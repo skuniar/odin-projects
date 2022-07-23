@@ -6,4 +6,11 @@ border-style: double;}
     width: 400px;
     height: 400px;
     border-style: double;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.frntpg {
+    text-align: center;
 }
