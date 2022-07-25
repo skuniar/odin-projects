@@ -1,7 +1,7 @@
 li {
     color: olive;
 }
-* {
+body {
     background-color: lightcyan;
 }
 h1 {
@@ -29,6 +29,7 @@ background-color: lightyellow;}
     padding-left: 1ch;
     padding-right: 1ch;
     padding-bottom: 0.5ch;
+    margin: auto;
 }
 .macncheese {
     background-color: lightyellow;
@@ -50,3 +51,9 @@ background-color: lightyellow;}
     font-family: 'Courier New', Courier, monospace;
 }
 
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+}
