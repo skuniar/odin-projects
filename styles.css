@@ -30,6 +30,7 @@ background-color: lightyellow;}
     padding-right: 1ch;
     padding-bottom: 0.5ch;
     margin: auto;
+    text-decoration: none;
 }
 .macncheese {
     background-color: lightyellow;
@@ -38,6 +39,7 @@ background-color: lightyellow;}
     padding-left: 1ch;
     padding-right: 1ch;
     padding-bottom: 0.5ch;
+    text-decoration: none;
 }
 .penne-pasta {
     background-color: lightyellow;
@@ -46,6 +48,7 @@ background-color: lightyellow;}
     padding-left: 1ch;
     padding-right: 1ch;
     padding-bottom: 0.5ch;
+    text-decoration: none;
 }
 .frntpg {
     font-family: 'Courier New', Courier, monospace;
